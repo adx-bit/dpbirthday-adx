@@ -7,51 +7,7 @@ It's designed as a personal and emotional way to wish someone special — when y
 
 ## 🧠 Project Idea
 
-> **POV:** It's her birthday, but you can't meet — so you build something special instead.
-
-The website features:
-
-- A live countdown timer ⏳
-- Personalized birthday messages 🎈
-- Smooth animations using Framer Motion ✨
-- Cute icons and a heartfelt design 💌
-
-This was created as part of an emotional reel where the journey begins with a few lines of code in VS Code and ends with a beautiful surprise on the browser.
-
----
-
-## 🛠️ Built With
-
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Lucide Icons](https://lucide.dev/)
-
----
-
-## 🔧 Setup
-
-To run this project locally:
-
-```bash
-git clone https://github.com/Anuj579/birthday-site.git
-cd birthday-site
-npm install
-npm run dev
-```
-
-Make sure to update the target date in `Home` component if you want to reuse this.
-
----
-
-## 🌐 Connect with Me
-
-Follow for more such creative and code-based content!
-
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+> **POV:** It's her birthday, but you can't mee
 
 ---
 
